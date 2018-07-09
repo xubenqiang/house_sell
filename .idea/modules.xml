@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/house-parent.iml" filepath="$PROJECT_DIR$/house-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/housebiz/housebiz.iml" filepath="$PROJECT_DIR$/housebiz/housebiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/houseweb/houseweb.iml" filepath="$PROJECT_DIR$/houseweb/houseweb.iml" />
+    </modules>
+  </component>
+</project>
