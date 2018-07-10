@@ -24,9 +24,9 @@
             <section id="404">
                 <div class="error-page">
                     <div class="title">
-                        <img alt="" src="/static/assets/img/error-page-background.png" class="top">
+                        <img alt="" src="assets/img/error-page-background.png" class="top">
                         <header>404</header>
-                        <img alt="" src="/static/assets/img/error-page-background.png" class="bottom">
+                        <img alt="" src="assets/img/error-page-background.png" class="bottom">
                     </div>
                     <h2 class="no-border">页面未找到</h2>
                     <a class="link-arrow back" href="/index" >返回首页</a>

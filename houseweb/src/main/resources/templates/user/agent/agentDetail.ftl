@@ -61,7 +61,7 @@
                                         <div class="property">
                                             <a href="/house/detail?id=${house.id}">
                                                 <div class="property-image">
-                                                    <img alt="" src="/static/assets/img/properties/property-09.jpg">
+                                                    <img alt="" src="assets/img/properties/property-09.jpg">
                                                 </div>
                                                 <div class="overlay">
                                                     <div class="info">
@@ -102,7 +102,7 @@
                                         <blockquote class="testimonial">
                                             <figure>
                                                 <div class="image">
-                                                    <img alt="" src="/static/assets/img/client-01.jpg">
+                                                    <img alt="" src="assets/img/client-01.jpg">
                                                 </div>
                                             </figure>
                                             <aside class="cite">
@@ -113,7 +113,7 @@
                                         <blockquote class="testimonial">
                                             <figure>
                                                 <div class="image">
-                                                    <img alt="" src="/static/assets/img/client-01.jpg">
+                                                    <img alt="" src="assets/img/client-01.jpg">
                                                 </div>
                                             </figure>
                                             <aside class="cite">

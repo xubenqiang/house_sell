@@ -30,7 +30,7 @@
                         <section id="agent-info">
                             <div class="row">
                                 <div class="col-md-3 col-sm-3">
-                                    <figure class="agency-image"><img alt="" src="/static/assets/img/agency-logo-big-01.png"></figure>
+                                    <figure class="agency-image"><img alt="" src="assets/img/agency-logo-big-01.png"></figure>
                                 </div><!-- /.col-md-3 -->
                                 <div class="col-md-5 col-sm-5">
                                     <h3>联系信息</h3>

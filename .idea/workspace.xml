@@ -4,7 +4,702 @@
     <bookmark url="file://$PROJECT_DIR$/housebiz/src/main/resources/application-mybatis.yml" line="7" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61620729-512e-46c4-9f61-ec4f741725d7" name="Default" comment="" />
+    <list default="true" id="61620729-512e-46c4-9f61-ec4f741725d7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom-map.js" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom-map.js" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom.js" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom.js" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/locations.js" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/locations.js" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/500.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/500.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/add.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/add.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/detail.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/detail.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/accounts/register.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/accounts/register.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyDetail.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyList.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyList.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agent/agentDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agent/agentDetail.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/config.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/MarkerCluster.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/_owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/bootstrap-rtl.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/bootstrap-select.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/brown.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/green.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/grey.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/magenta.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/orange.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/red.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/violet.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/fileinput.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/jquery.slider.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/leaflet.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/magnific-popup.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/osm.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/owl.transitions.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/toastr.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/AjaxLoader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/_marker.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/about-us-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-big-01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/big-star-off.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/big-star-on.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/close-btn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/cluster.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/error-page-background.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ad.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ae.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/af.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ag.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ai.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/al.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/am.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/an.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ao.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/as.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/at.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/au.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/aw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ax.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/az.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ba.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bd.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/be.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bj.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/br.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bs.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/by.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ca.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/catalonia.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cd.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ch.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ci.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ck.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/co.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cs.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cx.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/de.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dj.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/do.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ec.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ee.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/eg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/eh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/england.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/er.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/es.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/et.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/europeanunion.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fam.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fj.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ga.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gd.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ge.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gq.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gs.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ht.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/id.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ie.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/il.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/in.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/io.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/iq.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ir.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/is.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/it.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/jm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/jo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/jp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ke.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ki.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/km.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ky.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/la.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/li.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ls.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ly.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ma.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/md.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/me.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ml.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mq.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ms.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mx.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/my.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/na.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ne.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ng.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ni.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/no.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/np.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/om.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ph.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ps.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/py.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/qa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/re.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ro.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/rs.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ru.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/rw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/scotland.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sd.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/se.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/si.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sj.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/so.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/st.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/td.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/th.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tj.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tk.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/to.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ua.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ug.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/um.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/us.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/uy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/uz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/va.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ve.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/wales.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/wf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ws.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ye.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/yt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/za.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/zm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/zw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/grabbing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/google-map-fixed-height.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/google-map-fixed-navigation.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/google-map-fullscreen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-advanced.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-floated-slider.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-floated.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-slider.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/osm-fixed-height.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/osm-fixed-navigation.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/osm-fullscreen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/slider-search-box.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/slider.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/floor-plan-big.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/masonry-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/masonry-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/masonry-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-detail-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-detail-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-detail-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jslider.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/label.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-04.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/marker.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/marker.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/person-default.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/price-range-dragger.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/floor-plan-big.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/masonry-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/masonry-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/masonry-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-detail-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-detail-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-detail-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/apartment.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/condominium.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/construction-site.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/cottage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/empty.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/garage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/houseboat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/industrial-site.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/land.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/property-types.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/single-family.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/villa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/vineyard.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/warehouse.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/searchbox-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/sine-wave.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/star-off.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/star-on.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/video.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/_owl.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/bootstrap-fileinput/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/bootstrap-select.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/custom-map.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/draggable-0.1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/fileinput.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/icheck.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/imagesloaded.pkgd.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/infobox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery-2.1.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery-migrate-1.2.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.countTo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.dependClass-0.1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.fitvids.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.magnific-popup.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.numberformatter-1.2.3.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.placeholder.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.raty.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.slider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.slider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.validate.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.vanillabox-0.1.5.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jshashtable-2.1_src.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/leaflet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/leaflet.markercluster.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/locations.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/markerclusterer_packed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/markerwithlabel_packed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/masonry.pkgd.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/owl.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/retina-1.1.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/scrollReveal.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/selectize.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/smoothscroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/tmpl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/toastr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/waypoints.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/php/contact.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/brown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/green.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/grey.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/magenta.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/orange.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/red.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/violet.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_animation.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_appearance.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_background-clip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_background-origin.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_background-size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_border-radius.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_box-shadow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_box-sizing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_box.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_columns.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_deprecated-support.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_filter.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_flexbox.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_font-face.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_hyphenation.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_images.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_inline-block.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_opacity.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_pie.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_regions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_selection.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_shared.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_text-shadow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_transform.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_transition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_user-interface.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_classes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_elements.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_map.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_responsive.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/rtl.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/style.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/stylesheets/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/common/common.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493363414674/property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493363498901/property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493364017/property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493364220/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493365047/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493366546/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493368570/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493368937/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493368972" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370397/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370428/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370480" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370993/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370999/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493381459/property-detail-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493381460/property-detail-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493381462/property-detail-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438372/member-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438478/member-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493439911/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493439976/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493440153/member-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493440315/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493442221/member-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493442257/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493450178/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493450545/member-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493452469/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493452900/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494253506/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494253659/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255232/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255232/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256125/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256125/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494660392/1.pg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498395232/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498395611/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498395729/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498396301/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498396352/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498437765/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001688/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001755/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001847/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001913/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001962/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002165/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002218/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002340/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002415/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002568/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002749/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002844/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002883/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499003060/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499003339/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499004324/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499004595/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499005041/user-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795278/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795647/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795648/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795697/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500796444/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500796444/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500796444/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800314/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800314/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800314/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800727/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800727/property-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800727/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800883/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800883/property-09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800883/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800967/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800967/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800967/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/property-09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801204/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801204/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801204/property-11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801346/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801346/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801594/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801594/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801594/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500803086/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500803086/property-13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583185/入口卡片状态流转.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583195/入口卡片状态流转.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583433/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583433/入口卡片状态流转.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583480/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583978/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510584499/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510587283/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510587452/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/property-09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/property-04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/property-05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/floor-plan-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/property-09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/property-10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514816998/client-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/floor-plan-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/property-06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/property-07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/property-08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217056/property-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217056/property-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217056/property-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217057/floor-plan-big.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515220264/member-02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515220849/agent-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515223523/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515223690/member-03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/common/common.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/common/common.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/error/404.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/error/404.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/error/500.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/error/500.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/homepage/index.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/homepage/index.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/house/add.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/house/add.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/house/detail.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/house/detail.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/accounts/register.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/accounts/register.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyDetail.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyList.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyList.ftl" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agent/agentDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agent/agentDetail.ftl" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/housecommon/target/" />
@@ -19,31 +714,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="404.ftl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="224">
+              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ie.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/ie.js">
+      <file leaf-file-name="ResultMsg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="67">
+              <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/application.yml">
+      <file leaf-file-name="URLEncoder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLEncoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="282">
+              <caret line="199" column="52" lean-forward="false" selection-start-line="199" selection-start-column="49" selection-end-line="199" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -54,11 +765,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/static/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -87,10 +809,15 @@
         <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidConfig.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/houseweb/pom.xml" />
-        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" />
         <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/hello.ftl" />
-        <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" />
         <option value="$PROJECT_DIR$/houseweb/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -129,15 +856,18 @@
             <id />
           </State>
           <State>
-            <id>Android Lint</id>
+            <id>CodeSpring CoreSpring</id>
           </State>
           <State>
-            <id>Plugin DevKit</id>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Android</id>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -158,6 +888,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,14 +935,6 @@
             <path>
               <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="house-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="housebiz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -249,29 +973,20 @@
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xbq" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -502,6 +1217,7 @@
       <workItem from="1530539325187" duration="1210000" />
       <workItem from="1531141304183" duration="2461000" />
       <workItem from="1531143773212" duration="2766000" />
+      <workItem from="1531227901704" duration="4133000" />
     </task>
     <servers />
   </component>
@@ -529,10 +1245,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13216000" />
+    <option name="totallyTimeSpent" value="17349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -551,12 +1268,13 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7753706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2607296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26448497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -564,7 +1282,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,76 +1295,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/houseweb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/resources/application-mybatis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidServlet.java" />
     <entry file="file://$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,14 +1462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -846,16 +1486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/hello.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -864,19 +1494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7488">
-          <caret line="234" column="9" lean-forward="false" selection-start-line="234" selection-start-column="9" selection-end-line="234" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/blog/detail.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,14 +1524,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/stataic/assets/js/ie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/stataic/assets/js/ie.js" />
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/ie.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -919,10 +1533,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/common/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="62" column="30" lean-forward="true" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="533">
+          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/user/accounts/profile.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/php/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="199" column="52" lean-forward="false" selection-start-line="199" selection-start-column="49" selection-end-line="199" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
           <folding />
         </state>
       </provider>

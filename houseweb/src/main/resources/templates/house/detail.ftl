@@ -276,7 +276,7 @@
 <@common.js/>
 
 <!--[if gt IE 8]>
-<script type="text/javascript" src="/static//js/ie.js"></script>
+<script type="text/javascript" src="/js/ie.js"></script>
 <![endif]-->
  <script  type="text/javascript" >
      
@@ -300,7 +300,7 @@
            var ratingUser = $('.rating-user');
             if (ratingUser.length > 0) {
                 $('.rating-user .inner').raty({
-                    path: '/static/assets/img',
+                    path: 'assets/img',
                     starOff : 'big-star-off.png',
                     starOn  : 'big-star-on.png',
                     width: 150,

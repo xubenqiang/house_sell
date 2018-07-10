@@ -212,7 +212,7 @@
 
 <@common.js/>
 <!--[if gt IE 8]>
-<script type="text/javascript" src="/static/assets/js/ie.js"></script>
+<script type="text/javascript" src="assets/js/ie.js"></script>
 <![endif]-->
  <script  type="text/javascript" >
      
@@ -249,7 +249,7 @@
         var marker = new MarkerWithLabel({
             position: mapCenter,
             map: map,
-            icon: '/static/assets/img/marker.png',
+            icon: 'assets/img/marker.png',
             labelAnchor: new google.maps.Point(50, 0),
             draggable: true
         });

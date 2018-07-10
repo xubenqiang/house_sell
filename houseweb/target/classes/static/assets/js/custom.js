@@ -144,7 +144,7 @@ $(document).ready(function($) {
     var ratingOverall = $('.rating-overall');
     if (ratingOverall.length > 0) {
         ratingOverall.raty({
-            path: '/static/assets/img',
+            path: 'assets/img',
             readOnly: true,
             score: function() {
                 return $(this).attr('data-score');
@@ -154,7 +154,7 @@ $(document).ready(function($) {
     var ratingIndividual = $('.rating-individual');
     if (ratingIndividual.length > 0) {
         ratingIndividual.raty({
-            path: '/static/assets/img',
+            path: 'assets/img',
             readOnly: true,
             score: function() {
                 return $(this).attr('data-score');
