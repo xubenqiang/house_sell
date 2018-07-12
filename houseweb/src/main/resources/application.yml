@@ -1,7 +1,5 @@
 server:
   port: 8080
-  servlet:
-    context-path: /house
 
 spring:
   profiles:
@@ -17,5 +15,10 @@ spring:
       datetime_format: yyyy-MM-dd HH:mm:ss
       default_encoding: utf-8
       auto_import: common/common.ftl as common
+  jackson:
+    #json日期格式
+    date-format: yyyy-MM-dd HH:mm:dd
+    #不含有值为null的属性
+    default-property-inclusion: non_null
 file:
   path:

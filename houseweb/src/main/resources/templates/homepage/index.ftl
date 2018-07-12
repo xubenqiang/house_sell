@@ -22,10 +22,10 @@
                             <figure>西街镇, 新都区</figure>
                         </div>
                         <hr>
-                        <a href="property-detail.html" class="link-arrow">Read More</a>
+                        <a href="/property-detail.html" class="link-arrow">Read More</a>
                     </div>
                 </div>
-                <img alt="" src="assets/img/slide-01.jpg">
+                <img alt="" src="/assets/img/slide-01.jpg">
             </div>
             <div class="slide">
                 <div class="container">
@@ -36,10 +36,10 @@
                             <figure>张庄, IL 60610</figure>
                         </div>
                         <hr>
-                        <a href="property-detail.html" class="link-arrow">Read More</a>
+                        <a href="/property-detail.html" class="link-arrow">Read More</a>
                     </div>
                 </div>
-                <img alt="" src="assets/img/slide-02.jpg">
+                <img alt="" src="/assets/img/slide-02.jpg">
             </div>
             <div class="slide">
                 <div class="container">
@@ -50,10 +50,10 @@
                             <figure>王庄镇, 和平区</figure>
                         </div>
                         <hr>
-                        <a href="property-detail.html" class="link-arrow">Read More</a>
+                        <a href="/property-detail.html" class="link-arrow">Read More</a>
                     </div>
                 </div>
-                <img alt="" src="assets/img/slide-03.jpg">
+                <img alt="" src="/assets/img/slide-03.jpg">
             </div>
         </div>
     </div>
@@ -104,7 +104,7 @@
                     <a href="/house/list" class="link-arrow">所有房源</a>
                 </header>
                 <div class="row">
-                   <#list recomHouses as house>
+                  <#-- <#list recomHouses as house>
                     <div class="col-md-3 col-sm-6">
                         <div class="property">
                             <a href="/house/detail?id=${house.id}">
@@ -137,9 +137,9 @@
                                     </ul>
                                 </div>
                             </a>
-                        </div><!-- /.property -->
-                    </div><!-- /.col-md-3 -->
-                   </#list>
+                        </div><!-- /.property &ndash;&gt;
+                    </div><!-- /.col-md-3 &ndash;&gt;
+                   </#list>-->
                  
                 </div><!-- /.row-->
             </div><!-- /.container-->
@@ -151,7 +151,7 @@
                     <blockquote class="testimonial">
                         <figure>
                             <div class="image">
-                                <img alt="" src="assets/img/client-01.jpg">
+                                <img alt="" src="/assets/img/client-01.jpg">
                             </div>
                         </figure>
                         <aside class="cite">
@@ -162,7 +162,7 @@
                     <blockquote class="testimonial">
                         <figure>
                             <div class="image">
-                                <img alt="" src="assets/img/client-01.jpg">
+                                <img alt="" src="/assets/img/client-01.jpg">
                             </div>
                         </figure>
                         <aside class="cite">
@@ -177,11 +177,11 @@
             <div class="container">
                 <header class="section-title"><h2>Our Partners</h2></header>
                 <div class="logos">
-                    <div class="logo"><a href=""><img src="assets/img/logo-partner-01.png" alt=""></a></div>
-                    <div class="logo"><a href=""><img src="assets/img/logo-partner-02.png" alt=""></a></div>
-                    <div class="logo"><a href=""><img src="assets/img/logo-partner-03.png" alt=""></a></div>
-                    <div class="logo"><a href=""><img src="assets/img/logo-partner-04.png" alt=""></a></div>
-                    <div class="logo"><a href=""><img src="assets/img/logo-partner-05.png" alt=""></a></div>
+                    <div class="logo"><a href=""><img src="/assets/img/logo-partner-01.png" alt=""></a></div>
+                    <div class="logo"><a href=""><img src="/assets/img/logo-partner-02.png" alt=""></a></div>
+                    <div class="logo"><a href=""><img src="/assets/img/logo-partner-03.png" alt=""></a></div>
+                    <div class="logo"><a href=""><img src="/assets/img/logo-partner-04.png" alt=""></a></div>
+                    <div class="logo"><a href=""><img src="/assets/img/logo-partner-05.png" alt=""></a></div>
                 </div>
             </div><!-- /.container -->
         </section><!-- /#partners -->

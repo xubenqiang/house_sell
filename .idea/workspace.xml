@@ -5,700 +5,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61620729-512e-46c4-9f61-ec4f741725d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom-map.js" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom-map.js" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom.js" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/custom.js" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/locations.js" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/locations.js" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/500.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/500.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/add.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/add.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/detail.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/house/detail.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/accounts/register.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/accounts/register.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyDetail.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyList.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agency/agencyList.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agent/agentDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/user/agent/agentDetail.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/config.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/MarkerCluster.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/_owl.carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/bootstrap-rtl.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/bootstrap-select.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/brown.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/green.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/grey.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/magenta.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/orange.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/red.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/colors/violet.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/fileinput.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/jquery.slider.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/leaflet.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/magnific-popup.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/osm.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/owl.carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/owl.transitions.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/rtl.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/css/toastr.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/AjaxLoader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/_marker.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/about-us-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agency-logo-big-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/big-star-off.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/big-star-on.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/close-btn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/cluster.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/error-page-background.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ad.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ae.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/af.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ag.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ai.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/al.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/am.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/an.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ao.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ar.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/as.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/at.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/au.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/aw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ax.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/az.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ba.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bb.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bd.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/be.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/br.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bs.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/by.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/bz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ca.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/catalonia.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cd.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ch.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ci.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ck.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cl.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/co.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cs.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/cz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/de.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/do.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/dz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ec.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ee.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/eg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/eh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/england.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/er.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/es.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/et.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/europeanunion.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fam.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/fr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ga.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gb.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gd.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ge.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gl.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gp.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gq.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gs.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/gy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ht.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/hu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/id.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ie.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/il.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/in.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/io.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/iq.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ir.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/is.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/it.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/jm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/jo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/jp.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ke.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ki.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/km.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kp.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ky.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/kz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/la.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lb.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/li.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ls.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/lv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ly.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ma.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/md.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/me.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ml.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mp.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mq.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ms.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mx.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/my.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/mz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/na.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ne.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ng.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ni.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nl.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/no.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/np.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/nz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/om.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pa.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pe.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ph.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pl.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ps.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/pw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/py.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/qa.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/re.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ro.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/rs.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ru.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/rw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sa.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sb.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/scotland.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sd.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/se.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/si.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sl.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/so.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/st.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/sz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/td.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/th.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tl.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/to.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/tz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ua.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ug.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/um.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/us.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/uy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/uz.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/va.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ve.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/vu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/wales.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/wf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ws.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/ye.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/yt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/za.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/zm.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/flags/zw.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/grabbing.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/arrow.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/google-map-fixed-height.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/google-map-fixed-navigation.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/google-map-fullscreen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-advanced.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-floated-slider.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-floated.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/horizontal-search-slider.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/osm-fixed-height.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/osm-fixed-navigation.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/osm-fullscreen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/slider-search-box.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/index-files/slider.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/member-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/floor-plan-big.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/masonry-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/masonry-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/masonry-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-detail-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-detail-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/property-detail-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/properties/thumb-property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jpeg-backup/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/jslider.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/label.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo-partner-05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/logo@2x.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/marker.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/marker.psd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/member-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/person-default.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/price-range-dragger.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/floor-plan-big.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/masonry-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/masonry-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/masonry-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-detail-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-detail-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/property-detail-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/properties/thumb-property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/apartment.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/condominium.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/construction-site.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/cottage.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/empty.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/garage.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/houseboat.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/industrial-site.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/land.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/property-types.psd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/single-family.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/villa.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/vineyard.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/property-types/warehouse.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/searchbox-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/sine-wave.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/slide-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/star-off.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/star-on.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/img/video.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/_owl.carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/bootstrap-fileinput/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/bootstrap-select.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/custom-map.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/custom.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/draggable-0.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/fileinput.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/icheck.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/ie.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/imagesloaded.pkgd.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/infobox.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery-2.1.0.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery-migrate-1.2.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.countTo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.dependClass-0.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.fitvids.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.magnific-popup.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.numberformatter-1.2.3.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.placeholder.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.raty.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.slider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.slider.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.validate.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jquery.vanillabox-0.1.5.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/jshashtable-2.1_src.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/leaflet.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/leaflet.markercluster.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/locations.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/markerclusterer_packed.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/markerwithlabel_packed.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/masonry.pkgd.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/owl.carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/retina-1.1.0.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/scrollReveal.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/selectize.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/smoothscroll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/tmpl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/toastr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/js/waypoints.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/php/contact.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/brown.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/green.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/grey.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/magenta.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/orange.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/red.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/colors/violet.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_animation.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_appearance.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_background-clip.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_background-origin.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_background-size.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_border-radius.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_box-shadow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_box-sizing.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_box.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_columns.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_deprecated-support.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_filter.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_flexbox.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_font-face.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_hyphenation.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_images.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_inline-block.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_opacity.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_pie.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_regions.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_selection.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_shared.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_text-shadow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_transform.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_transition.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/compass/css3/_user-interface.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_classes.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_elements.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_map.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_print.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_responsive.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/helpers/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/rtl.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/scss/style.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/assets/stylesheets/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/common/common.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493363414674/property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493363498901/property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493364017/property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493364220/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493365047/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493366546/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493368570/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493368937/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493368972" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370397/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370428/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370480" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370993/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493370999/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493381459/property-detail-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493381460/property-detail-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493381462/property-detail-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493432771/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438372/member-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438478/member-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493438523/7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493439911/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493439976/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493440153/member-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493440315/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493442221/member-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493442257/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493450178/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493450545/member-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493452469/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1493452900/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494253506/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494253659/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255232/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255232/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494255495/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256125/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256125/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494256315/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1494660392/1.pg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498395232/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498395611/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498395729/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498396301/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498396352/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1498437765/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001688/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001755/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001847/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001913/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499001962/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002165/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002218/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002340/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002415/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002568/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002749/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002844/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499002883/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499003060/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499003339/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499004324/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499004595/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1499005041/user-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795278/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795647/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795648/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500795697/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500796444/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500796444/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500796444/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800314/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800314/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800314/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800727/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800727/property-12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800727/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800766/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800883/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800883/property-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800883/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800967/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800967/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500800967/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/property-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801115/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801204/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801204/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801204/property-11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801346/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801346/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801594/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801594/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500801594/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500803086/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1500803086/property-13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583185/入口卡片状态流转.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583195/入口卡片状态流转.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583433/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583433/入口卡片状态流转.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583480/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510583978/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510584499/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510587283/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1510587452/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514722627/property-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727258/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/property-04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/property-05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727307/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/floor-plan-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/property-09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514727520/property-10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1514816998/client-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/floor-plan-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/property-06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/property-07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515216506/property-08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217056/property-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217056/property-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217056/property-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515217057/floor-plan-big.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515220264/member-02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515220849/agent-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515223523/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/static/stataic/imgs/1515223690/member-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/common/common.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/common/common.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/error/404.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/error/404.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/error/500.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/error/500.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/homepage/index.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/homepage/index.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/house/add.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/house/add.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/house/detail.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/house/detail.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/accounts/register.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/accounts/register.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyDetail.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyList.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agency/agencyList.ftl" />
-      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agent/agentDetail.ftl" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/user/agent/agentDetail.ftl" />
+      <change afterPath="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/enums/UserEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housebiz/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/constant/CommonConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_0_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_0_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_10_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_10_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housebiz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/housebiz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housebiz/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/housebiz/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/common/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/common/common.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseweb/target/classes/templates/homepage/index.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/houseweb/target/classes/templates/homepage/index.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -714,48 +113,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="164">
+              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1587#1588#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HouseApplicationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="728">
+              <caret line="138" column="90" selection-start-line="138" selection-start-column="90" selection-end-line="138" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResultMsg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java">
+      <file leaf-file-name="UserEnum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/enums/UserEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1101#1102#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="104">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="URLEncoder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLEncoder.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="199" column="52" lean-forward="false" selection-start-line="199" selection-start-column="49" selection-end-line="199" selection-end-column="52" />
-              <folding />
+            <state relative-caret-position="1170">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/housebiz/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/CommonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -768,12 +189,15 @@
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>/static/</find>
+      <find>src</find>
+      <find>font-aw</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -781,11 +205,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -795,29 +214,34 @@
         <option value="$PROJECT_DIR$/housecommon/pom.xml" />
         <option value="$PROJECT_DIR$/housebiz/src/main/java/dao/UserMapper.java" />
         <option value="$PROJECT_DIR$/housebiz/src/main/java/config/MyBatisPlusConfig.java" />
-        <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java" />
         <option value="$PROJECT_DIR$/housecommon/src/main/java/com/xbq/common/model/User.java" />
         <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/web/HouseApplication.java" />
         <option value="$PROJECT_DIR$/housebiz/src/test/java/com/xbq/biz/dao/UserMapperTest.java" />
-        <option value="$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java" />
         <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/HouseApplication.java" />
         <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/User.java" />
-        <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java" />
-        <option value="$PROJECT_DIR$/housebiz/pom.xml" />
         <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidServlet.java" />
         <option value="$PROJECT_DIR$/housebiz/src/main/resources/application-mybatis.yml" />
         <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/houseweb/pom.xml" />
         <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/hello.ftl" />
-        <option value="$PROJECT_DIR$/houseweb/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl" />
-        <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/housebiz/src/main/resources/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/constant/CommonConstants.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl" />
         <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java" />
         <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java" />
         <option value="$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java" />
+        <option value="$PROJECT_DIR$/housebiz/pom.xml" />
+        <option value="$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/enums/UserEnum.java" />
       </list>
     </option>
   </component>
@@ -842,6 +266,9 @@
       </expand>
       <select />
     </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="674" />
@@ -874,58 +301,48 @@
     </entry>
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="housebiz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="housebiz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="housebiz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="housebiz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="housebiz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -933,34 +350,73 @@
               <item name="biz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="housebiz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="housebiz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="housebiz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="housebiz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -968,37 +424,128 @@
               <item name="xbq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="house-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="house-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
               <item name="houseweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="xbq" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xbq" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xbq" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xbq" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_sell" type="462c0819:PsiDirectoryNode" />
+              <item name="houseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1029,54 +576,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HouseApplication">
+  <component name="RunManager" selected="JUnit.HouseApplicationTest.testUserMapper">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration name="HouseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="com.xbq.HouseApplication" />
+      <module name="houseweb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xbq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xbq.HouseApplication" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="houseweb" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration name="HouseApplicationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="houseweb" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xbq.web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="houseweb" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xbq.web" />
@@ -1086,22 +611,43 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HouseApplicationTest.testUserMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="houseweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xbq.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xbq.web" />
+      <option name="MAIN_CLASS_NAME" value="com.xbq.web.HouseApplicationTest" />
+      <option name="METHOD_NAME" value="testUserMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <patterns />
     </configuration>
     <configuration name="UserMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="housebiz" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xbq.biz.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="housebiz" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xbq.biz.dao" />
@@ -1111,17 +657,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -1131,30 +673,17 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration name="HouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xbq.HouseApplication" />
       <module name="houseweb" />
-      <envs />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xbq.HouseApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -1167,40 +696,30 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.HouseApplication" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.UserMapperTest.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HouseApplicationTest.test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HouseApplication" />
+    <list>
+      <item itemvalue="Spring Boot.HouseApplication" />
+      <item itemvalue="JUnit.UserMapperTest.test" />
+      <item itemvalue="JUnit.HouseApplicationTest.test" />
+      <item itemvalue="Application.HouseApplication" />
+      <item itemvalue="JUnit.HouseApplicationTest.testUserMapper" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.HouseApplication" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HouseApplicationTest.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.UserMapperTest.test" />
+      <list>
+        <item itemvalue="JUnit.HouseApplicationTest.testUserMapper" />
+        <item itemvalue="Application.HouseApplication" />
+        <item itemvalue="JUnit.HouseApplicationTest.test" />
+        <item itemvalue="JUnit.UserMapperTest.test" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1218,70 +737,81 @@
       <workItem from="1531141304183" duration="2461000" />
       <workItem from="1531143773212" duration="2766000" />
       <workItem from="1531227901704" duration="4133000" />
+      <workItem from="1531364060330" duration="15494000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HouseApplicationTest_test - 2018.07.02 at 20h 48m 01s.xml">
-      <configuration name="HouseApplicationTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 15h 19m 57s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseApplicationTest_test - 2018.07.02 at 20h 54m 34s.xml">
-      <configuration name="HouseApplicationTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 02m 45s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseApplicationTest_test - 2018.07.02 at 21h 13m 44s.xml">
-      <configuration name="HouseApplicationTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 03m 45s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseApplicationTest_test - 2018.07.02 at 21h 13m 45s.xml">
-      <configuration name="HouseApplicationTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 26m 46s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseApplicationTest_test - 2018.07.02 at 21h 14m 41s.xml">
-      <configuration name="HouseApplicationTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 27m 42s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseApplicationTest_test - 2018.07.02 at 21h 20m 54s.xml">
-      <configuration name="HouseApplicationTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 32m 08s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserMapperTest_test - 2018.07.02 at 20h 46m 32s.xml">
-      <configuration name="UserMapperTest.test" configurationId="JUnit" />
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 32m 56s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 16h 33m 46s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 18h 02m 46s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HouseApplicationTest_testUserMapper - 2018.07.12 at 18h 20m 48s.xml">
+      <configuration name="HouseApplicationTest.testUserMapper" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17349000" />
+    <option name="totallyTimeSpent" value="32843000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7753706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26448497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3299356" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7746806" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2054721" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1291,80 +821,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/resources/application-mybatis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/web/HouseApplication.java" />
-    <entry file="file://$PROJECT_DIR$/housebiz/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1664">
-          <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-          <folding />
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1373,256 +838,89 @@
     <entry file="file://$PROJECT_DIR$/housecommon/pom.xml" />
     <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/dao/UserMapper.java" />
     <entry file="file://$MAVEN_REPOSITORY$/com/baomidou/mybatisplus-spring-boot-starter/1.0.5/mybatisplus-spring-boot-starter-1.0.5.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/housecommon/src/main/java/com/xbq/common/model/User.java" />
     <entry file="file://$PROJECT_DIR$/housebiz/src/test/java/com/xbq/biz/dao/UserMapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/web/HouseApplication.java" />
-    <entry file="file://$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.0/druid-1.1.0.jar!/com/alibaba/druid/support/http/ResourceServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.0/druid-1.1.0.jar!/com/alibaba/druid/support/http/StatViewServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.0/druid-1.1.0.jar!/com/alibaba/druid/support/http/ResourceServlet.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.0/druid-1.1.0.jar!/com/alibaba/druid/support/http/StatViewServlet.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.class" />
     <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidServlet.java" />
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/resources/application-mybatis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/DruidConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/HouseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
-          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/hello.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/blog/detail.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/img/error-page-background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/img/jslider.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/img/grabbing.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/stataic/assets/js/ie.js" />
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/js/ie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/common/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="62" column="30" lean-forward="true" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/user/accounts/profile.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/static/assets/php/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLEncoder.java" />
     <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="442">
           <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java">
+    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/config/MyBatisPlusConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="199" column="52" lean-forward="false" selection-start-line="199" selection-start-column="49" selection-end-line="199" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="442">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/ResultMsg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="208">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1062#1063#0" expanded="true" />
@@ -1631,11 +929,174 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/javafx-src.zip!/javafx/scene/control/Pagination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/baomidou/mybatis-plus/2.0.7/mybatis-plus-2.0.7.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/housebiz/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar!/org/apache/commons/beanutils/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="34" column="62" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/vo/UserVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/constant/CommonConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/mysql/mysql-connector-java/5.1.37/mysql-connector-java-5.1.37.jar!/com/mysql/jdbc/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/HouseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/error/404.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/common/common.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2229">
+          <caret line="9" column="86" lean-forward="true" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/resources/templates/homepage/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="76" column="69" lean-forward="true" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="728">
+          <caret line="138" column="90" selection-start-line="138" selection-start-column="90" selection-end-line="138" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/housebiz/src/main/resources/application-mybatis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/main/java/com/xbq/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1587#1588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houseweb/src/test/java/com/xbq/web/HouseApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/housebiz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/housebiz/src/main/java/com/xbq/biz/model/enums/UserEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

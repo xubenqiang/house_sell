@@ -6,17 +6,17 @@
     <meta name="author" content="ThemeStarz">
 
     <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
-    <link href="assets/fonts/font-awesome.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/jquery.slider.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/fileinput.min.css" type="text/css">
+    <link href="/assets/fonts/font-awesome.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-select.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/jquery.slider.min.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/owl.transitions.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/fileinput.min.css" type="text/css">
 
-    <link rel="stylesheet" href="assets/css/toastr.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/toastr.css" type="text/css">
 
 
 
@@ -76,33 +76,33 @@
 </#macro>
 
 <#macro js>
-<script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/js/smoothscroll.js"></script>
 <!-- <script type="text/javascript" src="assets/js/markerwithlabel_packed.js"></script> -->
 
-<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap-select.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
-<script type="text/javascript" src="assets/js/icheck.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.vanillabox-0.1.5.min.js"></script>
-<script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.raty.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.magnific-popup.min.js"></script>
-<script type="text/javascript" src="assets/js/jshashtable-2.1_src.js"></script>
-<script type="text/javascript" src="assets/js/jquery.numberformatter-1.2.3.js"></script>
-<script type="text/javascript" src="assets/js/tmpl.js"></script>
-<script type="text/javascript" src="assets/js/jquery.dependClass-0.1.js"></script>
-<script type="text/javascript" src="assets/js/draggable-0.1.js"></script>
-<script type="text/javascript" src="assets/js/jquery.slider.js"></script>
-<script type="text/javascript" src="assets/js/jquery.fitvids.js"></script>
-<script type="text/javascript" src="assets/js/fileinput.min.js"></script>
-<script type="text/javascript" src="assets/js/custom-map.js"></script>
-<script type="text/javascript" src="assets/js/custom.js"></script>
-<script type="text/javascript" src="assets/js/toastr.js"></script>
-<script type="text/javascript" src="common/common.js"></script>
+<script type="text/javascript" src="/assets/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/assets/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/assets/js/icheck.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.vanillabox-0.1.5.min.js"></script>
+<script type="text/javascript" src="/assets/js/retina-1.1.0.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.raty.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/assets/js/jshashtable-2.1_src.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.numberformatter-1.2.3.js"></script>
+<script type="text/javascript" src="/assets/js/tmpl.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.dependClass-0.1.js"></script>
+<script type="text/javascript" src="/assets/js/draggable-0.1.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.slider.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/fileinput.min.js"></script>
+<script type="text/javascript" src="/assets/js/custom-map.js"></script>
+<script type="text/javascript" src="/assets/js/custom.js"></script>
+<script type="text/javascript" src="/assets/js/toastr.js"></script>
+<script type="text/javascript" src="/common/common.js"></script>
 
 
 
@@ -176,9 +176,9 @@
                     </#if>
                     </div>
                     <div class="language-bar">
-                        <a href="#" class="active"><img src="assets/img/flags/gb.png" alt=""></a>
-                        <a href="#"><img src="assets/img/flags/de.png" alt=""></a>
-                        <a href="#"><img src="assets/img/flags/es.png" alt=""></a>
+                        <a href="#" class="active"><img src="/assets/img/flags/gb.png" alt=""></a>
+                        <a href="#"><img src="/assets/img/flags/de.png" alt=""></a>
+                        <a href="#"><img src="/assets/img/flags/es.png" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -193,7 +193,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <div class="navbar-brand nav" id="brand">
-                        <a href="/"><img src="assets/img/logo.png" alt="brand"></a>
+                        <a href="/"><img src="/assets/img/logo.png" alt="brand"></a>
                     </div>
                 </div>
                 <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">

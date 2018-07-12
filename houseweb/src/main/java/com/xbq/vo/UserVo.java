@@ -1,11 +1,13 @@
 package com.xbq.vo;
 
 import lombok.Data;
+import lombok.ToString;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.util.Date;
 
 @Data
+@ToString
 public class UserVo {
 
     private String name;
