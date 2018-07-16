@@ -11,8 +11,6 @@ public class CommonController {
     @GetMapping("/index")
     public ModelAndView index(){
         ModelAndView view = new ModelAndView("homepage/index");
-
-
         return view;
     }
 

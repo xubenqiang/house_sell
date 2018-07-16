@@ -1,0 +1,24 @@
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: mybatis
+  freemarker:
+    charset: utf-8
+    content-type: text/html;charset=UTF-8
+    expose-request-attributes: true
+    expose-session-attributes: true
+    expose-spring-macro-helpers: true
+    suffix: .ftl
+    settings:
+      datetime_format: yyyy-MM-dd HH:mm:ss
+      default_encoding: utf-8
+      auto_import: common/common.ftl as common
+  jackson:
+    #json日期格式
+    date-format: yyyy-MM-dd HH:mm:dd
+    #不含有值为null的属性
+    default-property-inclusion: non_null
+file:
+  path:

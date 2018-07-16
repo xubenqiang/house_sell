@@ -2,6 +2,7 @@ package com.xbq.web;
 
 import com.xbq.biz.dao.UserMapper;
 import com.xbq.biz.model.User;
+import com.xbq.vo.ResultMsg;
 import com.xbq.vo.UserVo;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
@@ -45,5 +46,12 @@ public class HouseApplicationTest {
         log.info(vo.toString());*/
         User user = userMapper.selectById(30);
 
+    }
+
+    @Test
+    public void testAsUrl(){
+        //ResultMsg msg = new ResultMsg();
+        String url = "http://localhost:8080/index?" + ResultMsg.successMsg("成功").asUrlParams();
+        System.out.println(url);
     }
 }
