@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xbq.biz.dao.HouseUserMapper">
+
+    <select id="selectByHouseId" parameterType="long" resultType="com.xbq.biz.model.HouseUser">
+      select * from house_user
+      where house_id = #{houseId}
+    </select>
+
+</mapper>

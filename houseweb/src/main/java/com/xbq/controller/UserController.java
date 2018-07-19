@@ -13,10 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
@@ -24,7 +21,7 @@ import javax.servlet.http.HttpSession;
 import java.util.Map;
 
 @Controller
-@RequestMapping("/user/accounts")
+@RequestMapping("/accounts")
 @Slf4j
 public class UserController {
 
@@ -77,9 +74,15 @@ public class UserController {
      * @param target：目标地址
      * @return
      */
-    @PostMapping("/signin")
+    @RequestMapping(value = "/signin",method = {RequestMethod.GET,RequestMethod.POST})
     public ModelAndView signin(HttpServletRequest request,String username,String password,String target){
         ModelAndView view = new ModelAndView();
+        if(username == null || password == null){
+            request.setAttribute("target",target);
+            view.setViewName("/user/accounts/signin");
+            return view;
+        }
+
         //验证用户登录信息
         User user = userService.auth(username,password);
         if(user == null){
@@ -87,7 +90,7 @@ public class UserController {
             +"&" + ResultMsg.errorMsg("用户名密码错误").asUrlParams());
         }else {
             //将用户信息存放在session中
-            HttpSession session = request.getSession();
+            HttpSession session = request.getSession(true);
             session.setAttribute(CommonConstants.USER_ATTRIBUTE,user);
             session.setAttribute(CommonConstants.PLAIN_USER_ATTRIBUTE,user);
 
@@ -123,9 +126,9 @@ public class UserController {
      * @return
      */
     @GetMapping("/profile")
-    public String profile(User updateUser, ModelMap modelMap,HttpServletRequest request){
+    public String profile(User updateUser,HttpServletRequest request){
         if(updateUser.getEmail() == null){
-            return "/user/accounts/profile";
+            return "/accounts/profile";
         }
 
         //更新用户
@@ -134,8 +137,6 @@ public class UserController {
         User user = userMapper.selectById(updateUser.getId());
         //更新session中的user
         request.getSession().setAttribute(CommonConstants.USER_ATTRIBUTE,user);
-
-
         return "redirect:/accounts/profile?" + ResultMsg.successMsg("更新成功").asUrlParams();
 
     }

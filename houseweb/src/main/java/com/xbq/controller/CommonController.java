@@ -8,12 +8,10 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class CommonController {
 
-    @GetMapping("/index")
+   /* @GetMapping("/index")
     public ModelAndView index(){
         ModelAndView view = new ModelAndView("homepage/index");
-
-
         return view;
-    }
+    }*/
 
 }

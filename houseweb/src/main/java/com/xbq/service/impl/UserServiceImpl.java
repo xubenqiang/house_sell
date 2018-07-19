@@ -2,7 +2,13 @@ package com.xbq.service.impl;
 
 import com.baomidou.mybatisplus.mapper.Condition;
 import com.baomidou.mybatisplus.mapper.EntityWrapper;
+import com.baomidou.mybatisplus.plugins.Page;
+import com.google.common.collect.Lists;
+import com.xbq.biz.dao.HouseMapper;
+import com.xbq.biz.dao.HouseUserMapper;
 import com.xbq.biz.dao.UserMapper;
+import com.xbq.biz.model.House;
+import com.xbq.biz.model.HouseUser;
 import com.xbq.biz.model.User;
 import com.xbq.service.UserService;
 import com.xbq.vo.ResultMsg;
@@ -11,6 +17,7 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
+import org.springframework.web.util.pattern.PathPattern;
 
 import java.util.List;
 
@@ -20,6 +27,11 @@ public class UserServiceImpl implements UserService {
     @Autowired
     private UserMapper userMapper;
 
+    @Autowired
+    private HouseUserMapper houseUserMapper;
+
+    @Autowired
+    private HouseMapper houseMapper;
 
     /**
      * 验证用户注册信息
@@ -69,6 +81,22 @@ public class UserServiceImpl implements UserService {
         return userMapper.selectList(null);
     }
 
-    //插入数据库，不激活
+
+
+    @Override
+    public List<House> getHousesByUserId(Long userId){
+        Condition houseUserCondition = Condition.create();
+        houseUserCondition.setSqlSelect("*");
+        houseUserCondition.eq("user_id",userId);
+
+        List<HouseUser> houseUserList = houseUserMapper.selectList(houseUserCondition);
+        List<Long> houseIds = Lists.newArrayList();
+        for (HouseUser hu : houseUserList) {
+            houseIds.add(hu.getHouseId());
+        }
+        List<House> houseList = houseMapper.selectBatchsByHouseIds(houseIds);
+
+        return houseList;
+    }
 
 }

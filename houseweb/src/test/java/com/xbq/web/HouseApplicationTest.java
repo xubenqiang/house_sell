@@ -1,7 +1,10 @@
 package com.xbq.web;
 
+import com.google.common.collect.Lists;
 import com.xbq.biz.dao.UserMapper;
 import com.xbq.biz.model.User;
+import com.xbq.constant.CommonConstants;
+import com.xbq.vo.ResultMsg;
 import com.xbq.vo.UserVo;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
@@ -9,9 +12,12 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.redis.core.ListOperations;
+import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import java.lang.reflect.InvocationTargetException;
+import java.util.List;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -20,6 +26,9 @@ public class HouseApplicationTest {
 
     @Autowired
     private UserMapper userMapper;
+
+    @Autowired
+    private RedisTemplate<String,String> redisTemplate;
 
     @Test
     public void test(){
@@ -43,7 +52,18 @@ public class HouseApplicationTest {
         UserVo vo = new UserVo();
         BeanUtils.copyProperties(user,vo);
         log.info(vo.toString());*/
-        User user = userMapper.selectById(30);
+        //User user = userMapper.selectById(30);
+        ListOperations<String,String> listOperations = redisTemplate.opsForList();
+       /* List<Long> houseIds = Lists.newArrayList(22L,23L,24L,25L,26L);
+        System.out.println(houseIds.toString());*/
+        listOperations.leftPushAll(CommonConstants.HOT_HOUSE_KEY,"22","23","24","25","26");
 
+    }
+
+    @Test
+    public void testAsUrl(){
+        //ResultMsg msg = new ResultMsg();
+        String url = "http://localhost:8080/index?" + ResultMsg.successMsg("成功").asUrlParams();
+        System.out.println(url);
     }
 }
