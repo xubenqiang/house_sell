@@ -23,17 +23,30 @@ spring:
   redis:
     host: 127.0.0.1
     port: 6379
-
   mvc:
     #隐藏网站图标
     favicon:
       enabled: false
+  boot:
+    admin:
+      client:
+        url: http://127.0.0.1:9080
+
 
 file:
   prefix: http://127.0.0.1:8081/images
+
+#actuator配置
 management:
   server:
     port: 8092
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"
 
 
-#SpringBoot 状态监控
+#Admin 配置
